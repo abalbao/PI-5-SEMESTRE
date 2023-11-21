@@ -7,9 +7,9 @@ A aplicação com os arquivos está no GitHub que pode ser realizado um Fork e s
 Ao acessar a aplicação, os usuários podem solicitar a entrega de alimentos, mantimentos, produtos de farmácia, eletrônicos, roupas e muito mais em questão de minutos. Selecionando restaurantes e lojas, os usuários podem escolher entre uma ampla variedade de restaurantes e lojas locais, com acesso aos menus e catálogos de produtos. Tem a opção de entrega personalizadas, onde os usuários podem selecionar entre diferentes opções de entrega, como entrega expressa, entrega programada e retirada em loja. Ainda, os usuários podem avaliar e comentar sobre suas experiências de entrega, contribuindo para a qualidade do serviço.
 ### Integrantes do Grupo 21
 Patrícia Souza de Oliveira
-Renan Botarelli Kabbach
-Robisom Nunes de Freitas
-Alexandre Brasil Balbao
-Giovanni Moreira Marchetti
-Ramilson Soares Ferro Neto
-Leonardo Barbosa Machado
+#Renan Botarelli Kabbach
+#Robisom Nunes de Freitas
+#Alexandre Brasil Balbao
+#Giovanni Moreira Marchetti
+#Ramilson Soares Ferro Neto
+#Leonardo Barbosa Machado
